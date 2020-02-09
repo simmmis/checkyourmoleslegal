@@ -75,27 +75,27 @@ We may also share Subscriber Information and personal information with our servi
 
 You have control over your Subscriber Information and other personal information related to your use of the App.  Accordingly, you may access, review, add, modify, correct, delete or update your Subscriber Information or other personal information at any time.  
 
-If you receive one or more emails from us, it means one of two things: (i) your email address is on our list of customers or prospective customers; or (ii) you have provided us your email address so that we could contact you.  If you believe you receive an email from us in error, please contact us immediately at _____________.  
+If you receive one or more emails from us, it means one of two things: (i) your email address is on our list of customers or prospective customers; or (ii) you have provided us your email address so that we could contact you.  If you believe you receive an email from us in error, please contact us immediately at redlensapps@gmail.com.  
 
-We provide you with the opportunity to opt-out of receiving marketing communications from us at any point in time.  If you wish to cease receiving marketing emails and other communications from us, you can opt-out by contacting us at _____________.
+We provide you with the opportunity to opt-out of receiving marketing communications from us at any point in time.  If you wish to cease receiving marketing emails and other communications from us, you can opt-out by contacting us at redlensapps@gmail.com.
 
 In addition to the above rights of access, correction, amendment or deletion, if you live in the EEA, subject to applicable law, you may have some or all of the following rights with respect to your personal information:
 
-to restrict processing of your personal data if the data is inaccurate, the processing is unlawful or we no longer need it for the purpose for which we hold it;
+- (i) to restrict processing of your personal data if the data is inaccurate, the processing is unlawful or we no longer need it for the purpose for which we hold it;
 
-to transmit your data (as provided by you, directly or otherwise collected by us by virtue of your use of the App) in machine-readable format to you or to a third party when we justify our processing on the basis of your consent or the performance of a contract with you;
+- (ii) to transmit your data (as provided by you, directly or otherwise collected by us by virtue of your use of the App) in machine-readable format to you or to a third party when we justify our processing on the basis of your consent or the performance of a contract with you;
 
-to withdraw your consent to our processing of your personal data (where that processing is based on your consent);
+- (iii) to withdraw your consent to our processing of your personal data (where that processing is based on your consent);
 
-to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization;
+- (iv) to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization;
 
-to object, at any time, to the processing of your personal information, on legitimate grounds, except if otherwise permitted by applicable law;
+- (v) to object, at any time, to the processing of your personal information, on legitimate grounds, except if otherwise permitted by applicable law;
 
-to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed); and
+- (vi) to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed); and
 
-to file a complaint with your local supervisory authority for data protection.
+- (vii) to file a complaint with your local supervisory authority for data protection.
 
-You can exercise the above rights by email sent to _____________.  If you establish a membership account with the App, you may make changes to the Subscriber Information related to your account by accessing your account settings.
+You can exercise the above rights by email sent to redlensapps@gmail.com.  If you establish a membership account with the App, you may make changes to the Subscriber Information related to your account by accessing your account settings.
 
 Please note that if you ask us to stop processing your personal data in a certain way or erase your personal data, and this type of processing or data is needed to facilitate your use of the App you may not be able to use the App as you did before, or at all.  This does not include your right to object to direct marketing, which can be exercised at any time without restriction.  Please allow at least five (5) working days for your request to be addressed.
 Please note that the rights mentioned above do not extend to non-personal data.  Please also note that it may be necessary to retain your personal data for the purposes of assessing and verifying data that is submitted to and/or held on the App, and to manage the App; your rights under applicable law may be limited accordingly.
@@ -110,7 +110,7 @@ You are responsible for maintaining the security of any password, biometrics, us
 
 You may request to review, correct, delete or otherwise modify information you have previously provided to us through the App.
 
-You have the right to ask us not to collect, use, process or disclose your Subscriber Information in any of the manners described herein.  This will affect your user experience.  You can notify us of your intention to halt the collection, use, processing, or disclosure of your Subscriber Information at any time by contacting us at _____________.
+You have the right to ask us not to collect, use, process or disclose your Subscriber Information in any of the manners described herein.  This will affect your user experience.  You can notify us of your intention to halt the collection, use, processing, or disclosure of your Subscriber Information at any time by contacting us at redlensapps@gmail.com.
 
 Some personal information is automatically collected via the use of data analytics tools.  If you object to such collection, your only choice is not to access the App.
 
@@ -124,18 +124,19 @@ From time to time, we may engage third parties to track and analyze non-personal
 
 The cookies we use do not transmit personally identifiable information to us or to our service providers.  You have the choice to opt-out of receiving cookies from both the Company and third parties which will prevent the Company and third parties from tracking information about the online advertisements that you visit.  Please note that you still will have the ability to use the App even if you opt-out of receiving cookies, or if you choose to disable cookies; however, you may have limited access to some areas of the App.  
 
-If you wish to opt out of receiving cookies from the Company, or to opt-out of receiving cookies from our third parties, please contact _____________.
+If you wish to opt out of receiving cookies from the Company, or to opt-out of receiving cookies from our third parties, please contact redlensapps@gmail.com.
 
 For more detailed information about cookies and how they can be managed and deleted, please visit www.allaboutcookies.org.
 
 ### Further Information
 
-The Company is the sole owner and operator of the App.  If you have any questions about anything in this Privacy Policy or about how we collect your Subscriber Information, or information generally, please contact _____________.
- You may also use the above contact information if you think any information about you is inaccurate or incomplete. 
+The Company is the sole owner and operator of the App.  If you have any questions about anything in this Privacy Policy or about how we collect your Subscriber Information, or information generally, please contact redlensapps@gmail.com.
+
+You may also use the above contact information if you think any information about you is inaccurate or incomplete. 
 
 ### Privacy Policy Changes
 
-We reserve the right to modify, amend or cancel this Privacy Policy at any time.  Any changes to this Privacy Policy will be posted here _____________________, so please check this page regularly and make sure to check the effective date of the policy as set forth above.  If you have any questions or concerns about the changes, please contact us at _____________.
+We reserve the right to modify, amend or cancel this Privacy Policy at any time.  Any changes to this Privacy Policy will be posted here https://github.com/simmmis/checkyourmoleslegal/edit/master/privacypolicy.md, so please check this page regularly and make sure to check the effective date of the policy as set forth above.  If you have any questions or concerns about the changes, please contact us at redlensapps@gmail.com.
 
 ### Notice to California Residents
 
@@ -149,7 +150,7 @@ We will always take steps to ensure any transfer of such information to entities
 
 Where there is no adequacy decision by the European Commission in respect of a country (to the extent that they are outside the EEA), which means it is not deemed to provide an adequate level of protection to your personal data, we will ensure your personal data receives an adequate level of protection.  For example, each such transfer to a third party will be protected by contractual commitments and further assurances (where appropriate) such as the European Commission's approved Standard Contractual Clauses.
 
-If you would like to find out more about these safeguards in respect of processing your personal data, please contact us at _____________.
+If you would like to find out more about these safeguards in respect of processing your personal data, please contact us at redlensapps@gmail.com.
 
 ### Notice to EU Data Subjects
 
@@ -157,6 +158,6 @@ Please be aware your Subscriber Information and personal information may be tran
 
 ### How to Contact the Company 
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to __________________.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to redlensapps@gmail.com.
 
 Please also contact us if you would like to know more about our data processing activities, to update or amend any of your personal data which you have sent us or if you believe our records relating to you are inaccurate.
