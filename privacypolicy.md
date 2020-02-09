@@ -20,7 +20,7 @@ You may give us data about you when you:
 
 - (iii) contact or correspond with us (for example via phone, email or otherwise); or
 
-- (iv)complete a survey about the use of the App.
+- (iv) complete a survey about the use of the App.
 
 We may collect information about you such as:
 
