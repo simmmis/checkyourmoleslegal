@@ -1,4 +1,4 @@
-PRIVACY POLICY
+###PRIVACY POLICY
 
 At RedLens, Inc. (the “Company,” “we,” “us,” or “our”), we respect and protect the privacy of each user of Check Your Moles (our “App”, and such user, “you,” “subscriber,” or “your”).  We created this “Privacy Policy” to demonstrate our commitment to your right of privacy and to describe our practices for how your personal information is collected and used.  This Privacy Policy applies to information that we may receive, collect or maintain about you when you use our App.  By accessing the App, you expressly consent to the use and disclosure of your information as described below.  If you do not agree with the terms set out in this Privacy Policy, please do not use the App and delete any cookies placed by the website.
 
